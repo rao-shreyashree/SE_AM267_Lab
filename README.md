@@ -47,3 +47,14 @@ For the three deliverables, refer to **`AM267_Lab1_document.pdf`** included in t
 5. Observability & Audit
 
 For the deliverables, refer to **`AM267_Lab2_document.pdf`** included in this repository.
+
+---
+
+## LAB 03
+**Date:** 08-September-2026
+
+### Deliverables
+1. UML Component Diagram - Illustrates the microservices architecture using UML ball-and-socket notation, mapping provided and required interfaces across the 5 core components and external actors
+2. Justification - outlining the reason for Microservices architectural style, security advantage and performance benefit
+
+For the deliverables, refer to **`AM267_Lab3_document.pdf`** included in this repository.
